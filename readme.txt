@@ -1,6 +1,6 @@
 first of all, we need to make jar 
 for that we use 
-1)mvn clean generate
+1)mvn clean install
 this will create a jar file in target folder
 cool.
 then we run command 
